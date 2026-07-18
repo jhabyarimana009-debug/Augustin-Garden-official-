@@ -1,0 +1,6 @@
+{
+  "name": "Augustin Garden",
+  "description": "A luxury-quality, high-performance, premium flower and vase eCommerce product showcase based in Kigali, Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

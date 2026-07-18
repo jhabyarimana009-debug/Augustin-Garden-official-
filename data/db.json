@@ -1,0 +1,341 @@
+{
+  "products": [
+    {
+      "id": "p_em9ap9ojc",
+      "name": "Fasifarumu and sinek pants",
+      "category": "fasifarumu-and-sinek-pants",
+      "shortDescription": "Fasifarumu and sinek pants",
+      "fullDescription": "Fasifarumu and sinek pants",
+      "mainImage": "/uploads/upload_1784320460017_6318yu.jpg",
+      "galleryImages": [
+        "/uploads/upload_1784320463843_1gzdcm.jpg"
+      ],
+      "isFeatured": true,
+      "isHotDeal": true,
+      "isRecommended": true,
+      "dateUploaded": "2026-07-17T20:34:37.684Z",
+      "status": "active"
+    },
+    {
+      "id": "p_n5lhvlohk",
+      "name": "Golden pam",
+      "category": "golden-palm",
+      "shortDescription": "Golden pam",
+      "fullDescription": "Golden pam",
+      "mainImage": "/uploads/upload_1784320363755_8e25qc.jpg",
+      "galleryImages": [
+        "/uploads/upload_1784320372090_g1pxez.jpg"
+      ],
+      "isFeatured": true,
+      "isHotDeal": true,
+      "isRecommended": true,
+      "dateUploaded": "2026-07-17T20:33:14.173Z",
+      "status": "active"
+    },
+    {
+      "id": "p_y4uh93vru",
+      "name": "Sinek pants",
+      "category": "sinek-pants",
+      "shortDescription": "Sinek pants",
+      "fullDescription": "Sinek pants",
+      "mainImage": "/uploads/upload_1784319971766_5myg7p.jpg",
+      "galleryImages": [
+        "/uploads/upload_1784319972888_sfufxc.jpg"
+      ],
+      "isFeatured": true,
+      "isHotDeal": true,
+      "isRecommended": true,
+      "dateUploaded": "2026-07-17T20:26:53.630Z",
+      "status": "active"
+    },
+    {
+      "id": "p1",
+      "name": "Shongoro feye",
+      "category": "shongoro-feye",
+      "shortDescription": "A magnificent cascade of pure snow-white orchids potted in a handcrafted high-gloss gold metallic ceramic vase.",
+      "fullDescription": "The Kigali Royal Orchid is the zenith of botanical sophistication. Hand-selected for their pristine, structural blooms, these dual-spiked white Phalaenopsis orchids are anchored in organic moss within our signature hand-painted gold-rimmed ceramic pot. Perfect for premium office receptions, high-end console tables, or as an esteemed gift representing respect and grace. Naturally durable, requiring minimal water, and will remain in full, breathtaking bloom for up to 8-10 weeks.",
+      "mainImage": "/uploads/upload_1784319673386_rn445k.jpg",
+      "galleryImages": [
+        "/uploads/upload_1784319682246_cbkvta.jpg"
+      ],
+      "isFeatured": true,
+      "isHotDeal": true,
+      "isRecommended": true,
+      "dateUploaded": "2026-07-17T20:01:58.070Z",
+      "status": "active"
+    },
+    {
+      "id": "p2",
+      "name": "Crimson Empress Luxury Rose Box",
+      "category": "amaroza",
+      "price": 65000,
+      "shortDescription": "36 deep crimson long-stemmed roses curated inside a premium textured black velvet cylindrical display.",
+      "fullDescription": "Our Crimson Empress roses are cultivated at optimal Rwandan high-altitude estates, allowing for colossal blooms and unparalleled color intensity. Each stem is meticulously stripped of thorns, hydrated in premium floral elixir, and packed tight into our branded, heavy-stock velvet cylindrical box. Designed to look breathtaking from every angle, this arrangement requires no transfer to a vase and maintains its perfect dome shape for up to 12 days with minor hydration.",
+      "mainImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1533616688419-b7a585564566?q=80&w=1000",
+        "https://images.unsplash.com/photo-1552694403-99b38007ae82?q=80&w=1000"
+      ],
+      "isFeatured": true,
+      "isHotDeal": false,
+      "isRecommended": true,
+      "dateUploaded": "2026-07-17T20:01:58.070Z",
+      "status": "active"
+    },
+    {
+      "id": "p3",
+      "name": "Gilded Obsidian Terracotta Vase",
+      "category": "vases",
+      "price": 120000,
+      "shortDescription": "Master-painted 45cm heavy terracotta vase finished in matte black with 24k gold abstract leafing.",
+      "fullDescription": "A singular piece of sculptural art. Hand-thrown by local Rwandan artisans, this heavy clay vase is kiln-fired and treated in our Kibagabaga studio. It features a modern textured charcoal-matte black background embellished with hand-applied gold leafing that mirrors organic leaf veins. Designed for both dry architectural branches or fresh premium arrangements. Water-sealed interior ensures zero moisture leakage onto expensive wood consoles.",
+      "mainImage": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?q=80&w=1000",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?q=80&w=1000",
+        "https://images.unsplash.com/photo-1606744824163-985d376605aa?q=80&w=1000"
+      ],
+      "isFeatured": true,
+      "isHotDeal": true,
+      "isRecommended": false,
+      "dateUploaded": "2026-07-17T20:01:58.070Z",
+      "status": "active"
+    },
+    {
+      "id": "p4",
+      "name": "Infinia White Anthurium Pot",
+      "category": "anteri-yumu",
+      "price": 45000,
+      "shortDescription": "Glossy white Anthurium plant styled within a white minimalist cylindrical stoneware pot.",
+      "fullDescription": "Anteri Yumu represents pure structural simplicity. Also known as the Painter's Palette, these glossy white, heart-shaped spathes hold a striking contrasting yellow spadix. Curated in our premium geometric white ceramic pot with sub-surface drainage, this live plant serves as an exceptionally clean air-purifying accent for desks, bathroom counters, and modern floating shelves.",
+      "mainImage": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=1000",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?q=80&w=1000"
+      ],
+      "isFeatured": false,
+      "isHotDeal": false,
+      "isRecommended": true,
+      "dateUploaded": "2026-07-17T20:01:58.070Z",
+      "status": "active"
+    },
+    {
+      "id": "p5",
+      "name": "Sunburst Meadow Daisy Meadow",
+      "category": "margarita",
+      "price": 32000,
+      "shortDescription": "A vibrant arrangement of white margaritas, chamomile, and light green eucalyptus styled in a rustic glass jar.",
+      "fullDescription": "Bring the crisp freshness of mountain meadows into your home. This bouquet combines Rwanda-grown chamomile daisies with long-stemmed white margaritas and soft, dusty-green baby blue eucalyptus. Styled directly inside a thick, ribbed glass jar with a genuine leather handle accent, it provides an exquisite organic centerpiece for dining tables and breakfast bars.",
+      "mainImage": "https://images.unsplash.com/photo-1560717789-0ac7c58ac90a?q=80&w=1000",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1533616688419-b7a585564566?q=80&w=1000"
+      ],
+      "isFeatured": false,
+      "isHotDeal": true,
+      "isRecommended": false,
+      "dateUploaded": "2026-07-17T20:01:58.070Z",
+      "status": "active"
+    },
+    {
+      "id": "p6",
+      "name": "Premium Golden Palm Stand",
+      "category": "golden-palm",
+      "price": 95000,
+      "shortDescription": "6-foot tall multi-stem Golden Cane Palm potted in an insulated charcoal fiberglass architectural planter.",
+      "fullDescription": "The absolute standard for luxury interior plant styling. These majestic, healthy Golden Palms are acclimated to low-light conditions inside our nursery, ensuring rapid transition without browning. Potted in lightweight yet incredibly robust charcoal fiberglass planters that won't crack or discolor, and finished with sleek natural volcanic black stones to retain soil moisture.",
+      "mainImage": "https://images.unsplash.com/photo-1545241047-6083a3684587?q=80&w=1000",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1513559688682-a939e72ef002?q=80&w=1000"
+      ],
+      "isFeatured": true,
+      "isHotDeal": false,
+      "isRecommended": false,
+      "dateUploaded": "2026-07-17T20:01:58.070Z",
+      "status": "active"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orchid",
+      "name": "Orchid",
+      "description": "Elite exotic orchids known for their architectural silhouettes and long-lasting beauty."
+    },
+    {
+      "id": "amaroza",
+      "name": "Amaroza",
+      "description": "Premium luxury long-stemmed roses in exquisite velvet shades."
+    },
+    {
+      "id": "margarita",
+      "name": "Margarita",
+      "description": "Cheerful, elegant daisies and premium margaritas for clean, airy styling."
+    },
+    {
+      "id": "sipure",
+      "name": "Sipure",
+      "description": "Striking sculptural cypress-like floral foliage and structuring branches."
+    },
+    {
+      "id": "golden-palm",
+      "name": "Golden Palm",
+      "description": "Lush tropical palm selections that breathe life into premium interior setups."
+    },
+    {
+      "id": "bujeniya",
+      "name": "Bujeniya",
+      "description": "Highly prized garden greenery with rich textured leaves."
+    },
+    {
+      "id": "fujeri",
+      "name": "Fujeri",
+      "description": "Lush, delicate forest ferns perfect for high-end hanging decor."
+    },
+    {
+      "id": "anteri-yumu",
+      "name": "Anteri Yumu",
+      "description": "Glossy, heart-shaped Anthuriums representing modern minimalist luxury."
+    },
+    {
+      "id": "vases",
+      "name": "Flower Vases",
+      "description": "Hand-painted premium ceramic, terracotta, and crystal flower vases."
+    },
+    {
+      "id": "shongoro-feye",
+      "name": "Shongoro feye",
+      "description": "Shongoro feye"
+    },
+    {
+      "id": "sinek-pants",
+      "name": "Sinek pants",
+      "description": "Sinek pants"
+    },
+    {
+      "id": "golden-pam",
+      "name": "Golden pam",
+      "description": "Golden pam"
+    },
+    {
+      "id": "fasifarumu-and-sinek-pants",
+      "name": "Fasifarumu and sinek pants",
+      "description": "Fasifarumu and sinek pants"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv1",
+      "name": "Luxury Garden Design & Landscaping",
+      "description": "Full-scale custom botanical blueprints and execution. We design elegant path steps, manicured sods, ornamental hedges, and rock garden terraces suited for premium residential estates in Kigali.",
+      "images": [
+        "https://images.unsplash.com/photo-1558904541-efa8c1a68fc6?q=80&w=1000",
+        "https://images.unsplash.com/photo-1584467541268-b040f83be3fd?q=80&w=1000"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "srv2",
+      "name": "Indoor & Commercial Green Styling",
+      "description": "Office decoration and residential indoor plant curated placements. We select perfect light-adapted species like Golden Palm and Fujeri paired with bespoke hand-painted ceramic vases to optimize air quality and premium corporate aura.",
+      "images": [
+        "https://images.unsplash.com/photo-1513559688682-a939e72ef002?q=80&w=1000",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1000"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "srv3",
+      "name": "Elite Wedding & Event Floral Setups",
+      "description": "Grand backdrops, floral archways, table runners, and boutique bride bouquets. We translate high-concept themes into unforgettable biological structures using Rwanda's freshest premium roses and callas.",
+      "images": [
+        "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1000",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "srv4",
+      "name": "Premium Vase Restoration & Painting",
+      "description": "Bespoke custom painting of terracotta, marble, and clay vases. Hand-crafted patterns made to coordinate beautifully with your interior color schemes, metallic finishes, and textures.",
+      "images": [
+        "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?q=80&w=1000"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "srv5",
+      "name": "Nationwide Luxury Delivery",
+      "description": "Delivering fully assembled arrangements and delicate potted installations securely in temperature-controlled vehicles directly to your doorstep in Kibagabaga, Kigali, or any province in Rwanda.",
+      "images": [
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1000"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "homepageSlides": [
+    {
+      "id": "slide1",
+      "title": "Luxury Flowers & Curated Vases",
+      "subtitle": "Augustin Garden – Breathtaking floral artistry delivered directly across Kigali and Rwanda.",
+      "image": "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?q=80&w=1600",
+      "link": "/flowers",
+      "order": 1
+    },
+    {
+      "id": "slide2",
+      "title": "Artisanal Hand-Painted Vases",
+      "subtitle": "Inimitable ceramic statements designed to elevate your living spaces and luxury office interiors.",
+      "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?q=80&w=1600",
+      "link": "/vases",
+      "order": 2
+    },
+    {
+      "id": "slide3",
+      "title": "Elite Landscape & Garden Design",
+      "subtitle": "Transforming residential villas and corporate terraces into natural paradise setups.",
+      "image": "https://images.unsplash.com/photo-1558904541-efa8c1a68fc6?q=80&w=1600",
+      "link": "/services",
+      "order": 3
+    }
+  ],
+  "settings": {
+    "profile": {
+      "ownerName": "Kwizera Augustin ",
+      "ownerPhoto": "/uploads/upload_1784319291206_j9ngp2.jpg",
+      "businessName": "Augustin Garden Ltd",
+      "phone": "(+250) 789 736 800",
+      "whatsapp": "+250789736800",
+      "email": "info@augustingarden.com",
+      "address": "Kibagabaga, KG 375 St, Kigali, Rwanda",
+      "location": "Kigali, Rwanda"
+    },
+    "social": {
+      "facebook": "https://facebook.com/augustingarden",
+      "instagram": "https://instagram.com/augustingarden",
+      "tiktok": "https://tiktok.com/@augustingarden",
+      "youtube": "https://youtube.com/c/augustingarden",
+      "twitter": "https://twitter.com/augustingarden"
+    },
+    "about": {
+      "story": "Founded in the heart of Kigali, Augustin Garden is Rwanda's premier luxury floral designer and landscaping artist. We curate high-end floral arrangements, premium ceramic and hand-painted vases, and construct breathtaking residential and commercial gardens. Our design philosophy pairs European clean lines with the vibrant, lush botanicals of East Africa.",
+      "mission": "To elevate everyday spaces across Rwanda through the luxurious elegance of custom floral designs, premium artisanal vases, and masterfully crafted garden landscapes.",
+      "vision": "To be recognized as East Africa's hallmark of luxury botanical design, known for unparalleled craftsmanship, premium quality, and exquisite aesthetic perfection.",
+      "values": [
+        "Aesthetic Elegance",
+        "Artisanal Craftsmanship",
+        "Client Trust",
+        "Exacting Quality",
+        "Eco-Friendly Gardening"
+      ],
+      "experience": "With over 12 years of landscape and floral setup experience, we have styled top presidential estates, corporate workspaces, and elite weddings in Kigali.",
+      "promise": "We promise that every bloom selected is at peak beauty, every vase is inspected for absolute perfection, and our customer support is always directly available with local Kigali delivery."
+    },
+    "contact": {
+      "address": "Kibagabaga, KG 375 St, Kigali, Rwanda (Near Kibagabaga Hospital)",
+      "phone": "(+250) 789 736 800",
+      "whatsapp": "+250789736800",
+      "email": "orders@augustingarden.com",
+      "businessHours": "Monday - Saturday: 7:30 AM - 7:30 PM | Sunday: 9:00 AM - 5:00 PM",
+      "googleMapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.117183049588!2d30.111816!3d-1.936671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca6fa54cf24e7%3A0xe54ef5bb9c1a3fc!2sKibagabaga%2C%20Kigali!5e0!3m2!1sen!2srw!4v1700000000000!5m2!1sen!2srw"
+    },
+    "privacyPolicy": "At Augustin Garden, we respect your privacy. As a showcase platform, we do not store customer checkout details or payment credentials. When you contact us via WhatsApp or Phone, your shared communication is used solely to facilitate your floral or landscaping order. We never sell or distribute your contact details to third parties.",
+    "termsConditions": "All floral orders are subject to fresh seasonal availability. Garden installations require an on-site design consultation in Kigali or across Rwanda. Since our flower and vase transactions are handled directly through direct contact, delivery terms and payments are mutually agreed upon during WhatsApp or phone negotiations."
+  }
+}
